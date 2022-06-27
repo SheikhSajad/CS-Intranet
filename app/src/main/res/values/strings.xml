@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CS Intranet</string>
+    <string name="leave">Leave Policy</string>
+    <string name="feedback">Feedback</string>
+    <string name="message">Wish everyone a very Happy New year 2022</string>
+    <string name="leave_policy">Leave Policy</string>
+    <string name="qateam">QA Team</string>
+    <string name="medical">Med Insurance</string>
+    <string name="core_team">Core Team</string>
+    <string name="travel">Travel</string>
+</resources>
